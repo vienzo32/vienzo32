@@ -3,11 +3,7 @@
 # Welcome to my GitHub!
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Vienzo32&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artist%20%7C%20Vibe%20Coding%20%7C%20Game%20Dev&descAlignY=55" width="100%"/>
-
-<a href="https://github.com/Vienzo32">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=I+Hope+You+Enjoy+%E2%98%95" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Vienzo32&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artist%20%7C%20Vibe%20Coding%20%7C%20Game%20Dev&descAlignY=55" width="100%"/>
 
 <img src="assets/banner2.gif" alt="Banner Vienzo32" width="900"/>
 
@@ -35,7 +31,7 @@ A place where I share my artwork. **If you like it, feel free to stop by!**
 <br/><br/>
 
 <a href="https://www.instagram.com/daviart32/">
-  <img src="https://img.shields.io/badge/See%20All%20Artwork%20→-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Lihat semua"/>
+  <img src="https://img.shields.io/badge/See%20All%20Artwork%20→-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Lihat semua"/>
 </a>
 
 </div>
@@ -65,10 +61,10 @@ A place where I share my artwork. **If you like it, feel free to stop by!**
 
 <div align="center">
 
-<a href="https://linkedin.com/in/USERNAME-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/daviart32/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/USERNAME-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/daviart32/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
