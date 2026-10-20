@@ -9,7 +9,7 @@
 
 <br/>
 <!-- GAMBAR / GIF UTAMA KAMU -->
-<img src="assets/banner.gif" alt="Banner Vienzo32" width="600"/>
+<img src="assets/banner.gif" alt="Banner Vienzo32" width="1000"/>
 
 </div>
 
