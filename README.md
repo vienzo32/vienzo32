@@ -22,9 +22,13 @@ A place where I share my artwork. **If you like it, feel free to stop by!**
 
 <br/>
 <!-- GALERI KARYA (3 GAMBAR) -->
-<a href="https://www.instagram.com/daviart32/">
+<a href="https://www.instagram.com/p/C4th9KkBNQz/?img_index=1">
   <img src="assets/foto1.jpg" width="30%" alt="Karya 1"/>
+</a>
+<a href="https://www.instagram.com/p/DTUoZcnj0dy/">
   <img src="assets/foto2.jpg" width="28%" alt="Karya 2"/>
+</a>
+<a href="https://www.instagram.com/p/C31ujLpBmOq/?img_index=1">
   <img src="assets/foto3.jpg" width="30%" alt="Karya 3"/>
 </a>
 
