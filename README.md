@@ -1,19 +1,19 @@
 <!-- HEADER -->
+---
+# Welcome to my GitHub!
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vienzo32&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artist%20%7C%20Vibe%20Coding%20%7C%20Game%20Dev&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Vienzo32&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artist%20%7C%20Vibe%20Coding%20%7C%20Game%20Dev&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/Vienzo32">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=I+Hope+You+Enjoy+%E2%98%95" alt="Typing SVG" />
 </a>
 
-<br/>
-<!-- GAMBAR / GIF UTAMA KAMU -->
-<img src="assets/banner.gif" alt="Banner Vienzo32" width="1000"/>
+<img src="assets/banner2.gif" alt="Banner Vienzo32" width="900"/>
 
 </div>
 
-## >> My Art
+# | My Art
 
 <div align="center">
 <br/>
@@ -37,7 +37,7 @@ A place where I share my artwork. **If you like it, feel free to stop by!**
 </div>
 
 ---
-## >> About Me
+# | About Me
 
 - Working on a project : **Wandering Heroes**
 - Learning : **Godot, Piskel**
@@ -47,7 +47,7 @@ A place where I share my artwork. **If you like it, feel free to stop by!**
 
 ---
 
-## >> I once studied
+# | I once studied
 
 <div align="center">
 
@@ -57,7 +57,7 @@ A place where I share my artwork. **If you like it, feel free to stop by!**
 
 ---
 
-## >> Let’s Connect
+# | Let’s Connect
 
 <div align="center">
 
