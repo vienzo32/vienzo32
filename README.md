@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,vscode,godot,windows,discord,github,instagram,blender,figma&perline=10" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,vscode,godot,laravel,arduino,flutter,windows,git,photoshop,,gmail,postgresql,spotify,discord,github,instagram,blender,figma&perline=10" alt="Tech Stack"/>
 
 </div>
 
