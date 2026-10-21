@@ -6,7 +6,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Vienzo32&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Artist%20%7C%20Vibe%20Coding%20%7C%20Coming%20Soon&descAlignY=55" width="100%"/>
 <br/>
 
-**"Stand proud, you are strong."- Ryomen Sukuna**
+---
+
+<h2 align="center"><i>"Stand proud, you are strong."- Ryomen Sukuna</i></h2>
 
 <br/>
 <img src="assets/banner2.gif" alt="Banner Vienzo32" width="900"/>
