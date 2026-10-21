@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center"><i>"Stand proud, you are strong."- Ryomen Sukuna</i></h2>
+<h2 align="center"><b><i>"Stand proud, you are strong."- Ryomen Sukuna</i><b></h2>
 
 <img src="assets/banner2.gif" alt="Banner Vienzo32" width="900"/>
 
