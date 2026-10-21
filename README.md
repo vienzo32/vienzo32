@@ -75,7 +75,7 @@ A place where I share my artwork. **If you like it, feel free to stop by!**
 If you are interested, **you can contact me via**
 
 <br/>
-<a href="https://linkedin.com/in/USERNAME-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/davi-ernanta-maulana-a26858445/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/daviart32/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
